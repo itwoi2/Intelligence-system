@@ -41,7 +41,13 @@ Lab2.2:
 4.調整模型使pokemon經過Autoencoder得到最佳化的重建結果。  
 
 
-# 
+# HW4-Generative Adversarial Networks
+1.完成DCGAN訓練程式 
+
+2.在同一張圖上繪製generator和discriminator的Training loss  
+
+3.在生成圖片的同時儲存模型，並為模型加上epoch次數  
+
 
 # 
 
